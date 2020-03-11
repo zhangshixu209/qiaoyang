@@ -1,7 +1,7 @@
 package com.chmei.nzbcommon.account;
 
 /**
- * @author lixinjie
+ * @author lixinjiez
  * @since 2018-10-21
  */
 public enum AccountState { 
